@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Purushottam96k
-- 👀 I’m interested in python coding
-- 🌱 I’m currently learning basic c
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m @Purushottam Yerkal
+- 👀 I’m interested in Java coding
+
 - 📫 How to reach me 9767469664
 
 <!---
